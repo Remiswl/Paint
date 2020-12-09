@@ -1,5 +1,5 @@
 #Paint
-A clone of Paint created with JavaScript and HTML Canvas.
+A clone of Paint created with __JavaScript__ and __HTML Canvas__.
 The site was made in the frame of my training in 3W Academy.
 
 ##Launch
